@@ -1,6 +1,13 @@
 # HealthPagerTalk
 ![Chat Application](https://github.com/EdinamUkpabio/HealthPagerTalk/blob/main/Interface%20(1).jpg)
 
+![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/HealthPagerTalk?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/HealthPagerTalk?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EdinamUkpabio/HealthPagerTalk?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/EdinamUkpabio/HealthPagerTalk)
+![GitHub contributors](https://img.shields.io/github/contributors/EdinamUkpabio/HealthPagerTalk)
+![GitHub code size](https://img.shields.io/github/languages/code-size/EdinamUkpabio/HealthPagerTalk)
+
 
 ## Introduction
 
