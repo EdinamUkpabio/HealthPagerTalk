@@ -11,6 +11,7 @@ which serves as the robust backbone of the application on the server-side. With 
 we ensure an engaging and responsive user experience, while Node.js, known for its speed and efficiency, 
 enables us to handle real-time communication seamlessly. Together, these technologies harmonize to create a feature-rich 
 chat platform that fosters instant, meaningful interactions for users, making it a valuable addition to the world of online communication.
+In addition to facilitating seamless communication, our chat application extends its capabilities to empower users in their health journey. Through secure channels, users can connect with their trusted doctors and healthcare providers, enabling personalized consultations and access to expert guidance, ensuring their well-being is just a message away.
 
 
 ## Tools And Technologies
